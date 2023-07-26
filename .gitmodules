@@ -1,0 +1,3 @@
+[submodule "resources/frontend/foodmanapp"]
+	path = resources/frontend/foodmanapp
+	url = https://github.com/mauljurassicia/FoodServiceSPA.git
